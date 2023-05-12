@@ -6,7 +6,7 @@
 3. Run Airism in Docker.
 4. Run the DAG.
 5. Run the first task.
-6. The task first takes the data from the local postgres server, and export its to a CSV file.
+6. The task first takes the data from the local postgres server, and exports it to a CSV file.
 7. Run the second task.
 8. The second task, exports the file to a S3 bucket.
 
