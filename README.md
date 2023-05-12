@@ -1,5 +1,6 @@
 # genspark-de
 
+### Tasks Completed
 1. Create a local postgres server and table.
 2. Populate the table with random data using a Python script.
 3. Run Airism in Docker.
@@ -10,7 +11,7 @@
 8. The second task, exports the file to a S3 bucket.
 
 
-### To be implemented
+### Tasks To Do
 1. Setup Redshift.
 2. Export file from S3 bucket to Redshift.
 3. Query Redshift.
