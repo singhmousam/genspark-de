@@ -15,5 +15,5 @@
 1. Setup Redshift.
 2. Export file from S3 bucket to Redshift.
 3. Query Redshift.
-4. Export query to local.
+4. Export results to local.
 5. Create Tableau visualization.
