@@ -17,3 +17,4 @@
 3. Query Redshift.
 4. Export results to local.
 5. Create Tableau visualization.
+6. Refractor.
