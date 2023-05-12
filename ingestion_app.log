@@ -1,0 +1,401 @@
+INFO: 2023-05-05 11:56:19,597: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 11:56:19,598: Read config file: 
+INFO: 2023-05-05 11:56:19,599: Fetch parameters
+INFO: 2023-05-05 12:07:17,246: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 12:07:17,247: Read config file: 
+INFO: 2023-05-05 12:07:17,249: Fetch parameters
+INFO: 2023-05-05 12:09:41,552: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 12:09:41,553: Read config file: 
+INFO: 2023-05-05 12:09:41,554: Fetch parameters
+INFO: 2023-05-05 12:21:41,560: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 12:21:41,560: Read config file: 
+INFO: 2023-05-05 12:21:41,561: Fetch parameters
+INFO: 2023-05-05 12:32:00,562: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 12:32:00,562: Read config file: 
+INFO: 2023-05-05 12:32:00,562: Fetch parameters
+INFO: 2023-05-05 12:35:26,150: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 12:35:26,150: Read config file: 
+INFO: 2023-05-05 12:35:26,150: Fetch parameters
+INFO: 2023-05-05 22:03:38,265: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:03:38,265: Read config file: 
+INFO: 2023-05-05 22:03:38,265: Fetch parameters
+INFO: 2023-05-05 22:17:37,053: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:17:37,053: Read config file: 
+INFO: 2023-05-05 22:17:37,053: Fetch parameters
+INFO: 2023-05-05 22:20:35,850: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:20:35,850: Read config file: 
+INFO: 2023-05-05 22:20:35,850: Fetch parameters
+INFO: 2023-05-05 22:21:20,218: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:21:20,218: Read config file: 
+INFO: 2023-05-05 22:21:20,218: Fetch parameters
+INFO: 2023-05-05 22:21:20,218: Running read file from s3 operation
+INFO: 2023-05-05 22:21:20,218: Initializing s3 session
+INFO: 2023-05-05 22:21:20,218: s3_connector
+INFO: 2023-05-05 22:21:21,641: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:25:27,296: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:25:27,304: Read config file: 
+INFO: 2023-05-05 22:25:27,304: Fetch parameters
+INFO: 2023-05-05 22:25:27,304: Running read file from s3 operation
+INFO: 2023-05-05 22:25:27,304: Initializing s3 session
+INFO: 2023-05-05 22:25:27,304: s3_connector
+INFO: 2023-05-05 22:25:27,773: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:32:23,366: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:32:23,367: Read config file: 
+INFO: 2023-05-05 22:32:23,367: Fetch parameters
+INFO: 2023-05-05 22:32:23,367: Running read file from s3 operation
+INFO: 2023-05-05 22:32:23,367: Initializing s3 session
+INFO: 2023-05-05 22:32:23,367: s3_connector
+INFO: 2023-05-05 22:32:26,476: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:32:26,476: Read config file: 
+INFO: 2023-05-05 22:32:26,484: Fetch parameters
+INFO: 2023-05-05 22:32:26,484: Running read file from s3 operation
+INFO: 2023-05-05 22:32:26,484: Initializing s3 session
+INFO: 2023-05-05 22:32:26,484: s3_connector
+INFO: 2023-05-05 22:33:24,418: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:33:24,418: Read config file: 
+INFO: 2023-05-05 22:33:24,429: Fetch parameters
+INFO: 2023-05-05 22:33:24,429: Running read file from s3 operation
+INFO: 2023-05-05 22:33:24,429: Initializing s3 session
+INFO: 2023-05-05 22:33:24,429: s3_connector
+INFO: 2023-05-05 22:35:05,732: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:35:05,732: Read config file: 
+INFO: 2023-05-05 22:35:05,732: Fetch parameters
+INFO: 2023-05-05 22:35:05,732: Running read file from s3 operation
+INFO: 2023-05-05 22:35:05,732: Initializing s3 session
+INFO: 2023-05-05 22:35:05,732: s3_connector
+INFO: 2023-05-05 22:35:06,327: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:36:23,427: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:36:23,443: Read config file: 
+INFO: 2023-05-05 22:36:23,443: Fetch parameters
+INFO: 2023-05-05 22:36:23,443: Running read file from s3 operation
+INFO: 2023-05-05 22:36:23,443: Initializing s3 session
+INFO: 2023-05-05 22:36:23,446: s3_connector
+INFO: 2023-05-05 22:36:23,919: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:41:44,051: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:41:44,051: Read config file: 
+INFO: 2023-05-05 22:41:44,051: Fetch parameters
+INFO: 2023-05-05 22:41:44,051: Running read file from s3 operation
+INFO: 2023-05-05 22:41:44,051: Initializing s3 session
+INFO: 2023-05-05 22:41:44,051: s3_connector
+INFO: 2023-05-05 22:41:44,438: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:42:43,923: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:42:43,923: Read config file: 
+INFO: 2023-05-05 22:42:43,923: Fetch parameters
+INFO: 2023-05-05 22:42:43,923: Running read file from s3 operation
+INFO: 2023-05-05 22:42:43,923: Initializing s3 session
+INFO: 2023-05-05 22:42:43,923: s3_connector
+INFO: 2023-05-05 22:42:44,322: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:46:58,988: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:46:58,988: Read config file: 
+INFO: 2023-05-05 22:46:58,988: Fetch parameters
+INFO: 2023-05-05 22:46:58,988: Running read file from s3 operation
+INFO: 2023-05-05 22:46:58,988: Initializing s3 session
+INFO: 2023-05-05 22:46:58,988: s3_connector
+INFO: 2023-05-05 22:46:59,415: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 22:51:06,772: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 22:51:06,772: Read config file: 
+INFO: 2023-05-05 22:51:06,772: Fetch parameters
+INFO: 2023-05-05 22:51:06,772: Running read file from s3 operation
+INFO: 2023-05-05 22:51:06,772: Initializing s3 session
+INFO: 2023-05-05 22:51:06,772: s3_connector
+INFO: 2023-05-05 22:51:07,207: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 23:03:58,791: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 23:03:58,791: Read config file: 
+INFO: 2023-05-05 23:03:58,801: Fetch parameters
+INFO: 2023-05-05 23:03:58,803: Running read file from s3 operation
+INFO: 2023-05-05 23:03:58,803: Initializing s3 session
+INFO: 2023-05-05 23:03:58,803: s3_connector
+INFO: 2023-05-05 23:03:59,674: Reading data from path s3://ksawsbucket/s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 23:11:09,917: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 23:11:09,917: Read config file: 
+INFO: 2023-05-05 23:11:09,933: Fetch parameters
+INFO: 2023-05-05 23:11:09,933: Running read file from s3 operation
+INFO: 2023-05-05 23:11:09,933: Initializing s3 session
+INFO: 2023-05-05 23:11:09,933: s3_connector
+INFO: 2023-05-05 23:11:10,530: Reading data from path s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 23:11:11,947: Operation successful
+INFO: 2023-05-05 23:12:14,044: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-05 23:12:14,044: Read config file: 
+INFO: 2023-05-05 23:12:14,044: Fetch parameters
+INFO: 2023-05-05 23:12:14,044: Running read file from s3 operation
+INFO: 2023-05-05 23:12:14,044: Initializing s3 session
+INFO: 2023-05-05 23:12:14,044: s3_connector
+INFO: 2023-05-05 23:12:14,479: Reading data from path s3://ksawsbucket/movies11.csv
+INFO: 2023-05-05 23:12:15,463: Operation successful
+INFO: 2023-05-11 11:26:30,318: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:26:30,318: Read config file: 
+INFO: 2023-05-11 11:27:00,923: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:27:00,923: Read config file: 
+INFO: 2023-05-11 11:27:00,925: Fetch parameters
+INFO: 2023-05-11 11:28:49,827: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:28:49,827: Read config file: 
+INFO: 2023-05-11 11:28:49,827: Fetch parameters
+INFO: 2023-05-11 11:28:49,827: Running read file from s3 operation
+INFO: 2023-05-11 11:28:49,827: Initializing s3 session
+INFO: 2023-05-11 11:28:49,827: s3_connector
+INFO: 2023-05-11 11:28:50,509: Reading data from url://"https://citibikenyc.linked.data.world/d/citibike-tripdata-april-2017/file/201704-citibike-tripdata.csv"
+INFO: 2023-05-11 11:30:27,491: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:30:27,491: Read config file: 
+INFO: 2023-05-11 11:30:27,493: Fetch parameters
+INFO: 2023-05-11 11:30:27,493: Running read file from s3 operation
+INFO: 2023-05-11 11:30:27,493: Initializing s3 session
+INFO: 2023-05-11 11:30:27,493: s3_connector
+INFO: 2023-05-11 11:30:27,724: Reading data from url://"https://citibikenyc.linked.data.world/d/citibike-tripdata-april-2017/file/201704-citibike-tripdata.csv"
+INFO: 2023-05-11 11:30:28,408: Operation successful
+INFO: 2023-05-11 11:41:31,633: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:41:31,634: Read config file: 
+INFO: 2023-05-11 11:41:31,635: Fetch parameters
+INFO: 2023-05-11 11:42:45,061: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:42:45,061: Read config file: 
+INFO: 2023-05-11 11:42:45,061: Fetch parameters
+INFO: 2023-05-11 11:42:45,061: Running read file from s3 operation
+INFO: 2023-05-11 11:42:45,062: Initializing s3 session
+INFO: 2023-05-11 11:42:45,062: s3_connector
+INFO: 2023-05-11 11:42:45,375: Reading data://"D:\citibikenyc-citibike-tripdata-april-2017.zip"
+INFO: 2023-05-11 11:42:46,090: Operation successful
+INFO: 2023-05-11 11:49:53,781: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:49:53,782: Read config file: 
+INFO: 2023-05-11 11:49:53,783: Fetch parameters
+INFO: 2023-05-11 11:49:53,784: Running read file from s3 operation
+INFO: 2023-05-11 11:49:53,784: Initializing s3 session
+INFO: 2023-05-11 11:49:53,784: s3_connector
+INFO: 2023-05-11 11:49:54,107: Reading data from path ://ksawsbucket/"D:\citibikenyc-citibike-tripdata-april-2017.zip"
+INFO: 2023-05-11 11:49:54,761: Operation successful
+INFO: 2023-05-11 11:52:17,116: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:52:17,117: Read config file: 
+INFO: 2023-05-11 11:52:17,117: Fetch parameters
+INFO: 2023-05-11 11:52:17,117: Running read file from s3 operation
+INFO: 2023-05-11 11:52:17,117: Initializing s3 session
+INFO: 2023-05-11 11:52:17,117: s3_connector
+INFO: 2023-05-11 11:52:17,346: Reading data from path ://ksawsbucket/D:\citibikenyc-citibike-tripdata-april-2017.zip
+INFO: 2023-05-11 11:52:18,065: Operation successful
+INFO: 2023-05-11 11:54:47,027: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:54:47,027: Read config file: 
+INFO: 2023-05-11 11:54:47,028: Fetch parameters
+INFO: 2023-05-11 11:54:47,028: Running read file from s3 operation
+INFO: 2023-05-11 11:54:47,028: Initializing s3 session
+INFO: 2023-05-11 11:54:47,028: s3_connector
+INFO: 2023-05-11 11:54:47,248: Reading data from path :///D:\citibikenyc-citibike-tripdata-april-2017.zip
+INFO: 2023-05-11 11:54:47,907: Operation successful
+INFO: 2023-05-11 11:59:10,389: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 11:59:10,389: Read config file: 
+INFO: 2023-05-11 11:59:10,390: Fetch parameters
+INFO: 2023-05-11 11:59:10,390: Running read file from s3 operation
+INFO: 2023-05-11 11:59:10,390: Initializing s3 session
+INFO: 2023-05-11 11:59:10,390: s3_connector
+INFO: 2023-05-11 11:59:10,613: Reading data from path :///D:\citibikenyc-citibike-tripdata-april-2017\citibikenyc-citibike-tripdata-april-2017\original\201704-citibike-tripdata.csv
+INFO: 2023-05-11 11:59:11,333: Operation successful
+INFO: 2023-05-11 12:01:13,102: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:01:13,102: Read config file: 
+INFO: 2023-05-11 12:01:13,103: Fetch parameters
+INFO: 2023-05-11 12:01:13,103: Running read file from s3 operation
+INFO: 2023-05-11 12:01:13,103: Initializing s3 session
+INFO: 2023-05-11 12:01:13,103: s3_connector
+INFO: 2023-05-11 12:01:13,348: Reading data from path :////201704-citibike-tripdata.csv
+INFO: 2023-05-11 12:01:14,107: Operation successful
+INFO: 2023-05-11 12:05:37,792: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:05:37,792: Read config file: 
+INFO: 2023-05-11 12:05:37,793: Fetch parameters
+INFO: 2023-05-11 12:05:37,793: Running read file from s3 operation
+INFO: 2023-05-11 12:05:37,793: Initializing s3 session
+INFO: 2023-05-11 12:05:37,793: s3_connector
+INFO: 2023-05-11 12:05:38,116: Reading data from path :///201704-citibike-tripdata.csv
+INFO: 2023-05-11 12:05:38,808: Operation successful
+INFO: 2023-05-11 12:22:32,075: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:22:32,075: Read config file: 
+INFO: 2023-05-11 12:22:32,075: Fetch parameters
+INFO: 2023-05-11 12:23:26,649: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:23:26,649: Read config file: 
+INFO: 2023-05-11 12:23:26,649: Fetch parameters
+INFO: 2023-05-11 12:23:26,650: Running read file from s3 operation
+INFO: 2023-05-11 12:23:26,650: Initializing s3 session
+INFO: 2023-05-11 12:23:26,650: s3_connector
+INFO: 2023-05-11 12:23:26,868: Reading data from path s3://ksawsbucket/201704-citibike-tripdata.csv
+INFO: 2023-05-11 12:24:12,460: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:24:12,461: Read config file: 
+INFO: 2023-05-11 12:24:12,462: Fetch parameters
+INFO: 2023-05-11 12:24:12,462: Running read file from s3 operation
+INFO: 2023-05-11 12:24:12,462: Initializing s3 session
+INFO: 2023-05-11 12:24:12,462: s3_connector
+INFO: 2023-05-11 12:24:12,685: Reading data from path s3://ksawsbucket/201704-citibike-tripdata.csv
+INFO: 2023-05-11 12:26:48,165: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:26:48,166: Read config file: 
+INFO: 2023-05-11 12:26:48,166: Fetch parameters
+INFO: 2023-05-11 12:31:31,139: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:31:31,139: Read config file: 
+INFO: 2023-05-11 12:31:31,140: Fetch parameters
+INFO: 2023-05-11 12:31:31,140: Running read file from s3 operation
+INFO: 2023-05-11 12:31:31,140: Initializing s3 session
+INFO: 2023-05-11 12:31:31,140: s3_connector
+INFO: 2023-05-11 12:31:31,393: Reading data from path s3://ksawsbucket/201704-citibike-tripdata.csv
+INFO: 2023-05-11 12:32:55,728: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:32:55,728: Read config file: 
+INFO: 2023-05-11 12:32:55,728: Fetch parameters
+INFO: 2023-05-11 12:32:55,729: Running read file from s3 operation
+INFO: 2023-05-11 12:32:55,729: Initializing s3 session
+INFO: 2023-05-11 12:32:55,729: s3_connector
+INFO: 2023-05-11 12:32:55,948: Reading data from path s3://ksawsbucket/201704-citibike-tripdata.csv
+INFO: 2023-05-11 12:34:05,987: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 12:34:05,987: Read config file: 
+INFO: 2023-05-11 12:34:05,987: Fetch parameters
+INFO: 2023-05-11 12:34:05,987: Running read file from s3 operation
+INFO: 2023-05-11 12:34:05,987: Initializing s3 session
+INFO: 2023-05-11 12:34:05,987: s3_connector
+INFO: 2023-05-11 12:34:06,212: Reading data from path s3://ksawsbucket/201704-citibike-tripdata.csv
+INFO: 2023-05-11 14:54:50,287: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 14:54:50,287: Read config file: 
+INFO: 2023-05-11 14:54:50,289: Fetch parameters
+INFO: 2023-05-11 14:54:50,289: Running read file from s3 operation
+INFO: 2023-05-11 14:54:50,289: Initializing s3 session
+INFO: 2023-05-11 14:54:50,289: s3_connector
+INFO: 2023-05-11 14:54:50,951: Reading data from path s3://ksawsbucket/D:\citibikenyc-citibike-tripdata-april-2017.zip\citibikenyc-citibike-tripdata-april-2017\original
+INFO: 2023-05-11 15:03:08,085: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 15:03:08,085: Read config file: 
+INFO: 2023-05-11 15:03:08,086: Fetch parameters
+INFO: 2023-05-11 15:03:08,086: Running write file to s3 operation
+INFO: 2023-05-11 15:03:08,087: Initializing s3 session
+INFO: 2023-05-11 15:03:08,087: s3_connector
+INFO: 2023-05-11 15:03:08,397: Writing data to s3://D:\citibikenyc-citibike-tripdata-april-2017.zip\citibikenyc-citibike-tripdata-april-2017\original/ksawsbucket
+INFO: 2023-05-11 15:08:08,232: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 15:08:08,232: Read config file: 
+INFO: 2023-05-11 15:08:08,234: Fetch parameters
+INFO: 2023-05-11 15:08:08,234: Running write file to s3 operation
+INFO: 2023-05-11 15:08:08,234: Initializing s3 session
+INFO: 2023-05-11 15:08:08,234: s3_connector
+INFO: 2023-05-11 15:08:08,452: Writing data to s3://ksawsbucket/citibikenyc-citibike-tripdata-april-2017\data\201704_citibike_tripdata.csv
+INFO: 2023-05-11 16:29:46,887: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 16:29:46,888: Read config file: 
+INFO: 2023-05-11 16:29:46,888: Fetch parameters
+INFO: 2023-05-11 16:34:00,138: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 16:34:00,138: Read config file: 
+INFO: 2023-05-11 16:34:00,139: Fetch parameters
+INFO: 2023-05-11 16:35:12,528: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 16:35:12,528: Read config file: 
+INFO: 2023-05-11 16:35:12,530: Fetch parameters
+INFO: 2023-05-11 16:35:12,530: Running read file from s3 operation
+INFO: 2023-05-11 16:36:00,854: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 16:36:00,854: Read config file: 
+INFO: 2023-05-11 16:36:00,855: Fetch parameters
+INFO: 2023-05-11 16:36:00,855: Running read file from s3 operation
+INFO: 2023-05-11 16:37:44,320: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 16:37:44,320: Read config file: 
+INFO: 2023-05-11 16:37:44,320: Fetch parameters
+INFO: 2023-05-11 16:37:44,322: Running read file from s3 operation
+INFO: 2023-05-11 16:41:47,658: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-11 16:41:47,658: Read config file: 
+INFO: 2023-05-11 16:41:47,659: Fetch parameters
+INFO: 2023-05-11 16:41:47,659: Running read file from s3 operation
+INFO: 2023-05-12 10:08:26,654: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:08:26,654: Read config file: 
+INFO: 2023-05-12 10:08:26,656: Fetch parameters
+INFO: 2023-05-12 10:08:26,656: Running read file from s3 operation
+INFO: 2023-05-12 10:08:34,858: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:08:34,859: Read config file: 
+INFO: 2023-05-12 10:08:34,861: Fetch parameters
+INFO: 2023-05-12 10:08:34,861: Running read file from s3 operation
+INFO: 2023-05-12 10:16:45,955: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:16:45,956: Read config file: 
+INFO: 2023-05-12 10:16:45,958: Fetch parameters
+INFO: 2023-05-12 10:16:45,958: Running read file from s3 operation
+INFO: 2023-05-12 10:20:23,146: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:20:23,146: Read config file: 
+INFO: 2023-05-12 10:20:23,147: Fetch parameters
+INFO: 2023-05-12 10:20:23,147: Running read file from s3 operation
+INFO: 2023-05-12 10:24:36,313: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:24:36,313: Read config file: 
+INFO: 2023-05-12 10:24:36,314: Fetch parameters
+INFO: 2023-05-12 10:24:36,314: Running read file from s3 operation
+INFO: 2023-05-12 10:26:22,571: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:26:22,571: Read config file: 
+INFO: 2023-05-12 10:26:22,572: Fetch parameters
+INFO: 2023-05-12 10:26:22,572: Running read file from s3 operation
+INFO: 2023-05-12 10:29:19,110: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:29:19,110: Read config file: 
+INFO: 2023-05-12 10:29:19,111: Fetch parameters
+INFO: 2023-05-12 10:29:19,111: Running read file from s3 operation
+INFO: 2023-05-12 10:30:46,134: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:30:46,134: Read config file: 
+INFO: 2023-05-12 10:30:46,136: Fetch parameters
+INFO: 2023-05-12 10:30:46,137: Running read file from s3 operation
+INFO: 2023-05-12 10:35:39,921: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:35:39,921: Read config file: 
+INFO: 2023-05-12 10:35:39,922: Fetch parameters
+INFO: 2023-05-12 10:35:39,922: Running read file from s3 operation
+INFO: 2023-05-12 10:43:58,324: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:43:58,324: Read config file: 
+INFO: 2023-05-12 10:43:58,325: Fetch parameters
+INFO: 2023-05-12 10:43:58,325: Running read file from s3 operation
+INFO: 2023-05-12 10:47:01,491: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:47:01,491: Read config file: 
+INFO: 2023-05-12 10:47:01,493: Fetch parameters
+INFO: 2023-05-12 10:47:01,493: Running read file from s3 operation
+INFO: 2023-05-12 10:47:32,272: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:47:32,272: Read config file: 
+INFO: 2023-05-12 10:47:32,275: Fetch parameters
+INFO: 2023-05-12 10:47:32,275: Running read file from s3 operation
+INFO: 2023-05-12 10:49:12,881: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:49:12,881: Read config file: 
+INFO: 2023-05-12 10:49:12,883: Fetch parameters
+INFO: 2023-05-12 10:49:12,883: Running read file from s3 operation
+INFO: 2023-05-12 10:51:06,107: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:51:06,107: Read config file: 
+INFO: 2023-05-12 10:51:06,111: Fetch parameters
+INFO: 2023-05-12 10:51:06,111: Running read file from s3 operation
+INFO: 2023-05-12 10:56:24,960: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:56:24,960: Read config file: 
+INFO: 2023-05-12 10:56:24,962: Fetch parameters
+INFO: 2023-05-12 10:56:24,962: Running read file from s3 operation
+INFO: 2023-05-12 10:57:31,835: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:57:31,835: Read config file: 
+INFO: 2023-05-12 10:57:31,838: Fetch parameters
+INFO: 2023-05-12 10:57:31,838: Running read file from s3 operation
+INFO: 2023-05-12 10:59:41,267: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 10:59:41,267: Read config file: 
+INFO: 2023-05-12 10:59:41,269: Fetch parameters
+INFO: 2023-05-12 10:59:41,269: Running read file from s3 operation
+INFO: 2023-05-12 11:05:58,370: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:05:58,370: Read config file: 
+INFO: 2023-05-12 11:05:58,370: Fetch parameters
+INFO: 2023-05-12 11:05:58,370: Running read file from s3 operation
+INFO: 2023-05-12 11:09:40,967: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:09:40,968: Read config file: 
+INFO: 2023-05-12 11:09:40,969: Fetch parameters
+INFO: 2023-05-12 11:09:40,969: Running read file from s3 operation
+INFO: 2023-05-12 11:11:15,215: Operation successful
+INFO: 2023-05-12 11:12:46,985: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:12:46,985: Read config file: 
+INFO: 2023-05-12 11:12:46,987: Fetch parameters
+INFO: 2023-05-12 11:12:46,987: Running read file from s3 operation
+INFO: 2023-05-12 11:15:21,948: Operation successful
+INFO: 2023-05-12 11:16:13,133: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:16:13,133: Read config file: 
+INFO: 2023-05-12 11:16:13,134: Fetch parameters
+INFO: 2023-05-12 11:16:13,135: Running read file from s3 operation
+INFO: 2023-05-12 11:19:58,730: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:19:58,730: Read config file: 
+INFO: 2023-05-12 11:19:58,732: Fetch parameters
+INFO: 2023-05-12 11:19:58,732: Running read file from s3 operation
+INFO: 2023-05-12 11:21:27,865: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:21:27,865: Read config file: 
+INFO: 2023-05-12 11:21:27,867: Fetch parameters
+INFO: 2023-05-12 11:21:27,867: Running read file from s3 operation
+INFO: 2023-05-12 11:23:03,554: Operation successful
+INFO: 2023-05-12 11:27:42,316: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:27:42,318: Read config file: 
+INFO: 2023-05-12 11:27:42,319: Fetch parameters
+INFO: 2023-05-12 11:27:42,319: Running read file from s3 operation
+INFO: 2023-05-12 11:29:15,544: Operation successful
+INFO: 2023-05-12 11:33:07,897: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:33:07,898: Read config file: 
+INFO: 2023-05-12 11:33:07,899: Fetch parameters
+INFO: 2023-05-12 11:33:07,900: Running read file from s3 operation
+INFO: 2023-05-12 11:35:12,957: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:35:12,958: Read config file: 
+INFO: 2023-05-12 11:35:12,960: Fetch parameters
+INFO: 2023-05-12 11:35:12,960: Running read file from s3 operation
+INFO: 2023-05-12 11:36:55,900: Operation successful
+INFO: 2023-05-12 11:37:00,738: ---------------------------------------------------------------------------------------------
+INFO: 2023-05-12 11:37:00,738: Read config file: 
+INFO: 2023-05-12 11:37:00,739: Fetch parameters
+INFO: 2023-05-12 11:37:00,740: Running read file from s3 operation
+INFO: 2023-05-12 11:38:40,879: Operation successful
